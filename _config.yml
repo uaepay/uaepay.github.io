@@ -1,0 +1,54 @@
+name: Automobile Stories
+title: Automobile Stories
+description: Latest automotive trends and reviews
+logo: assets/images/idnlogos.png
+favicon: assets/images/techico.png
+url: 'https://www.auto.or.id'
+baseurl: '/web-stories'
+google_analytics: 'UA-209667013-4'
+include:
+  - _pages
+permalink: '/:title/'
+authors:
+  techidn:
+    name: Auto
+    display_name: Auto ID
+    email: krvsuite@gmail.com
+    twitter: ''
+    description: "Learn with us"
+    web: "https://www.auto.or.id"
+    gravatar: 0397aa39d5259d69961beaf1155fa085
+plugins:
+  - jekyll-paginate
+  - jekyll-sitemap
+  - jekyll-feed
+  - jekyll-seo-tag
+  - jekyll-archives
+jekyll-archives:
+  enabled:
+    - categories
+  layout: archive
+  permalinks:
+    category: '/category/:name/'
+paginate: 6
+paginate_path: '/page:num/'
+markdown: kramdown
+kramdown:
+  input: GFM
+  syntax_highlighter: rouge
+  syntax_highlighter_opts:
+    block:
+      line_numbers: true
+adsense: 'enabled'
+adsense-data-ad-client: 'ca-pub-0439588541328884'
+adsense-data-ad-slot: '7013485932'
+lazyimages: 'enabled'
+exclude:
+  - changelog.md
+  - LICENSE.txt
+  - README.md
+  - Gemfile
+  - Gemfile.lock
+jekyll_admin:
+  hidden_links:
+    - datafiles
