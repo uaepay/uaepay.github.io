@@ -40,8 +40,8 @@ kramdown:
     block:
       line_numbers: true
 adsense: 'enabled'
-adsense-data-ad-client: 'ca-pub-0439588541328884'
-adsense-data-ad-slot: '7013485932'
+adsense-data-ad-client: 'ca-pub-3141717106817809'
+adsense-data-ad-slot: '9322355398'
 lazyimages: 'enabled'
 exclude:
   - changelog.md
