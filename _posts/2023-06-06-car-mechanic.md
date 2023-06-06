@@ -1,7 +1,7 @@
 ---
 title: Rev Up Your Knowledge - Essential Car Mechanic Tips and Tricks
 layout: post
-author: techidn
+author: rickpate
 categories: 
 - Automotive
 image: assets/images/Car Mechanic.jpg
