@@ -3,7 +3,7 @@ title: From Classic to Cutting-Edge - Car Brands that Define Style
 layout: post
 author: rickpate
 categories: 
-- Business
+- Automotive
 image: assets/images/Car Brands.jpg
 featured: false
 ---
