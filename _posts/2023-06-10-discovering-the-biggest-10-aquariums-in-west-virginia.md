@@ -25,7 +25,7 @@ pages:
       text: Discovering The Biggest 10 Aquariums in West Virginia
  - layout: thirds
    top: <h1>#3 West Virginia State Wildlife Center</h1>
-   bottom: "<p>Very affordable pricing for tickets! The staff was very friendly and inviting. They had delicious food and a great gift shop! We went in Mid April and some animals weren‚</p>"
+   bottom: "<p>Very affordable pricing for tickets! The staff was very friendly and inviting. They had delicious food and a great gift shop! We went in Mid April and some animals weren√¢</p>"
    background: https://paketmu.com/wp-content/uploads/2023/06/oglebay-good-zoo-3-in-west-virginia-1686371393.jpeg
    cta:
       link: https://paketmu.com/discovering-the-biggest-10-aquariums-in-west-virginia/

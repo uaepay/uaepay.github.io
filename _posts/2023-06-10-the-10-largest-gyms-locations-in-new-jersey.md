@@ -9,11 +9,10 @@ cover:
    title: The 10 Largest Gyms Locations in New Jersey
    subtitle: RICKPATE
    background: https://paketmu.com/wp-content/uploads/2023/06/my-gym-manalapan-0-in-new-jersey-1686366378.jpeg
-
 pages: 
  - layout: thirds
    top: <h1>#1 Esporta Fitness</h1>
-   bottom: "<p>My name is Jacqueline and I attend the gym. My trainer is Tony and he is actually excellent. I gave him great reviews. He makes you work hard. Hes a good trainer. weâ€</p>"
+   bottom: "<p>My name is Jacqueline and I attend the gym. My trainer is Tony and he is actually excellent. I gave him great reviews. He makes you work hard. Hes a good trainer.</p>"
    background: https://paketmu.com/wp-content/uploads/2023/06/my-gym-manalapan-1-in-new-jersey-1686366379.jpeg
    backgroundblur: true
  - layout: thirds

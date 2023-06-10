@@ -9,11 +9,10 @@ cover:
    title: Uncover 10 Fantastic Laser Hair Removal Options in Visalia CA
    subtitle: Rickpate
    background: https://www.depkes.org/wp-content/uploads/2023/06/laser-hair-removal-0-in-visalia-ca-1685869748.png
-
 pages: 
  - layout: thirds
    top: <h1>#1 Advanced Body and Laser Center l Medical Spa</h1>
-   bottom: "<p>It is a very caring organization.  The owner and employees truly care about the well being of their clients.  I have always been very happy  with my experiences.  ❤️�</p>"
+   bottom: "<p>It is a very caring organization.  The owner and employees truly care about the well being of their clients.  I have always been very happy  with my experiences.</p>"
    background: https://www.depkes.org/wp-content/uploads/2023/06/laser-hair-removal-1-in-visalia-ca-1685869749.jpeg
    backgroundblur: true
  - layout: thirds

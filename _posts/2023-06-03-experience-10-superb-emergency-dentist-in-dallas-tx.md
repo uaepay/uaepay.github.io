@@ -18,7 +18,7 @@ pages:
    backgroundblur: true
  - layout: thirds
    top: <h1>#2 Emergency Dental Care USA</h1>
-   bottom: "<p>Had severe wisdom tooth pain on a Friday evening. Went in around 7-30 and was out at 9 sharp with four less wisdom teeth. Amazing service. Probably the best experience Iâ</p>"
+   bottom: "<p>Had severe wisdom tooth pain on a Friday evening. Went in around 7-30 and was out at 9 sharp with four less wisdom teeth. Amazing service. Probably the best experience IÃ¢</p>"
    background: https://www.depkes.org/wp-content/uploads/2023/06/emergency-dentist-2-in-dallas-tx-1685758744.jpeg
    cta:
       link: https://www.depkes.org/blog/experience-10-superb-emergency-dentist-in-dallas-tx/

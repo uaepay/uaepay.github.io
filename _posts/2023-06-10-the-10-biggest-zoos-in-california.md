@@ -25,7 +25,7 @@ pages:
       text: The 10 Biggest Zoos in California
  - layout: thirds
    top: <h1>#3 Fresno Chaffee Zoo</h1>
-   bottom: "<p>Its a great little zoo! The improvements they are making are wonderful. They updated the dinosaur part which is awesome now! The little water play area was neat but Iâ</p>"
+   bottom: "<p>Its a great little zoo! The improvements they are making are wonderful. They updated the dinosaur part which is awesome now! The little water play area was neat but IÃ¢</p>"
    background: https://paketmu.com/wp-content/uploads/2023/06/the-living-desert-zoo-and-gardens-3-in-california-1686363671.jpeg
    cta:
       link: https://paketmu.com/the-10-biggest-zoos-in-california/

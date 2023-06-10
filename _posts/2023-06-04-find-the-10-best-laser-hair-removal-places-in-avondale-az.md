@@ -18,7 +18,7 @@ pages:
    backgroundblur: true
  - layout: thirds
    top: <h1>#2 Ideal Image Peoria</h1>
-   bottom: "<p>I do not recommend this place to anyone. You work very hard for your money. They charged me about 4K for three parts . You need  to do your research on prices first. Don‚</p>"
+   bottom: "<p>I do not recommend this place to anyone. You work very hard for your money. They charged me about 4K for three parts . You need  to do your research on prices first. Don√¢</p>"
    background: https://www.depkes.org/wp-content/uploads/2023/06/laser-hair-removal-2-in-avondale-az-1685867350.png
    cta:
       link: https://www.depkes.org/blog/find-the-10-best-laser-hair-removal-places-in-avondale-az/

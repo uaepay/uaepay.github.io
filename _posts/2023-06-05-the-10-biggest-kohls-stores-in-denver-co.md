@@ -13,7 +13,7 @@ cover:
 pages: 
  - layout: thirds
    top: <h1>#1 Kohls</h1>
-   bottom: "<p>Got just what we wanted. My son found a great IZOD sweater/hoodie that he liked. Looks great on him. Cant wait for XMAS so he can start wearing it here in Frigid CO!!! ð</p>"
+   bottom: "<p>Got just what we wanted. My son found a great IZOD sweater/hoodie that he liked. Looks great on him. Cant wait for XMAS so he can start wearing it here in Frigid CO!!! Ã°</p>"
    background: https://www.depkes.org/wp-content/uploads/2023/06/kohls-1-in-denver-co-1685965474.jpeg
    backgroundblur: true
  - layout: thirds

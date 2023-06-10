@@ -13,7 +13,7 @@ cover:
 pages: 
  - layout: thirds
    top: <h1>#1 Dollar General</h1>
-   bottom: "<p>There was trash outside on the ground. Walking into the store, you can tell that the employees are overworked. Things are still in boxes, items are everywhere, and there‚</p>"
+   bottom: "<p>There was trash outside on the ground. Walking into the store, you can tell that the employees are overworked. Things are still in boxes, items are everywhere, and there√¢</p>"
    background: https://www.depkes.org/wp-content/uploads/2023/06/dollar-general-1-in-austin-tx-1685965934.jpeg
    backgroundblur: true
  - layout: thirds

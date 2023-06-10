@@ -25,7 +25,7 @@ pages:
       text: The 10 Largest Playgrounds Locations in Alaska
  - layout: thirds
    top: <h1>#3 Elderberry Park</h1>
-   bottom: "<p>There isnt too much of a park, just two small play areas that could be appealing to children. Good for walking dogs. The walk along Coastal Trail is pretty because it‚</p>"
+   bottom: "<p>There isnt too much of a park, just two small play areas that could be appealing to children. Good for walking dogs. The walk along Coastal Trail is pretty because it√¢</p>"
    background: https://paketmu.com/wp-content/uploads/2023/06/russian-jack-springs-park-3-in-alaska-1686372596.jpeg
    cta:
       link: https://paketmu.com/the-10-largest-playgrounds-locations-in-alaska/

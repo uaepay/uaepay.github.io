@@ -13,7 +13,7 @@ cover:
 pages: 
  - layout: thirds
    top: <h1>#1 O2 Fitness Greensboro - Friendly Center</h1>
-   bottom: "<p>Great gym in the Greensboro Friendly shopping center. O2 also has a upstairs area to workout. The equipment are up to date. I personally enjoy the downstairs area, there‚</p>"
+   bottom: "<p>Great gym in the Greensboro Friendly shopping center. O2 also has a upstairs area to workout. The equipment are up to date. I personally enjoy the downstairs area, there√¢</p>"
    background: https://paketmu.com/wp-content/uploads/2023/06/planet-fitness-1-in-north-carolina-1686366013.jpeg
    backgroundblur: true
  - layout: thirds

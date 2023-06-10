@@ -9,11 +9,10 @@ cover:
    title: Take a Tour of the 10 Largest Universitys in West Virginia
    subtitle: RICKPATE
    background: https://paketmu.com/wp-content/uploads/2023/06/west-liberty-university-0-in-west-virginia-1686371371.jpeg
-
 pages: 
  - layout: thirds
    top: <h1>#1 West Virginia University</h1>
-   bottom: "<p>Super excited and happy for my cousin who did tremendously great work on his career and now apart of the la rams lets go Sam James 💪🏿🫶🏿💯♾️🏈🔥�</p>"
+   bottom: "<p>Super excited and happy for my cousin who did tremendously great work on his career and now apart of the la rams lets go Sam James</p>"
    background: https://paketmu.com/wp-content/uploads/2023/06/west-liberty-university-1-in-west-virginia-1686371372.jpeg
    backgroundblur: true
  - layout: thirds

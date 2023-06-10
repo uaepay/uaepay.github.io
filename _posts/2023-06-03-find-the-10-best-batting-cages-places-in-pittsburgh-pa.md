@@ -9,7 +9,6 @@ cover:
    title: Find the 10 Best Batting Cages Places in Pittsburgh PA
    subtitle: Rickpate
    background: https://www.depkes.org/wp-content/uploads/2023/06/batting-cages-0-in-pittsburgh-pa-1685774348.jpeg
-
 pages: 
  - layout: thirds
    top: <h1>#1 North Park Batting Range</h1>
@@ -18,7 +17,7 @@ pages:
    backgroundblur: true
  - layout: thirds
    top: <h1>#2 Steel City Cages</h1>
-   bottom: "<p>Im leaving this 5 star review because I cant stand people who give less stars for ridiculous reasons.  Unless its a real legitimate complaint, not you werenâ€</p>"
+   bottom: "<p>Im leaving this 5 star review because I cant stand people who give less stars for ridiculous reasons.  Unless its a real legitimate complaint, not you</p>"
    background: https://www.depkes.org/wp-content/uploads/2023/06/batting-cages-2-in-pittsburgh-pa-1685774350.jpeg
    cta:
       link: https://www.depkes.org/blog/find-the-10-best-batting-cages-places-in-pittsburgh-pa/

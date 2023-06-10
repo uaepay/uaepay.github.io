@@ -9,11 +9,10 @@ cover:
    title: Take a Tour of the 10 Largest Ford Dealers in North Dakota
    subtitle: RICKPATE
    background: https://paketmu.com/wp-content/uploads/2023/06/luther-family-ford-0-in-north-dakota-1686372533.jpeg
-
 pages: 
  - layout: thirds
    top: <h1>#1 Eide Ford Lincoln</h1>
-   bottom: "<p>I was very skeptical buying at a dealership for an older truckâ€¦ However my sales rep Dakota was awesome!! Got back to me with info and pics within an hour of inquiring </p>"
+   bottom: "<p>I was very skeptical buying at a dealership for an older truc However my sales rep Dakota was awesome!! Got back to me with info and pics within an hour of inquiring </p>"
    background: https://paketmu.com/wp-content/uploads/2023/06/luther-family-ford-1-in-north-dakota-1686372534.jpeg
    backgroundblur: true
  - layout: thirds
@@ -25,7 +24,7 @@ pages:
       text: Take a Tour of the 10 Largest Ford Dealers in North Dakota
  - layout: thirds
    top: <h1>#3 Eide Ford Mandan</h1>
-   bottom: "<p>I had a great experience with Eide Ford. I went in hoping to get the vehicle I had seen on their webpage, but it just so happen to be sold the day before, Keith Happyâ</p>"
+   bottom: "<p>I had a great experience with Eide Ford. I went in hoping to get the vehicle I had seen on their webpage, but it just so happen to be sold the day before, Keith Happy</p>"
    background: https://paketmu.com/wp-content/uploads/2023/06/luther-family-ford-3-in-north-dakota-1686372535.jpeg
    cta:
       link: https://paketmu.com/take-a-tour-of-the-10-largest-ford-dealers-in-north-dakota/

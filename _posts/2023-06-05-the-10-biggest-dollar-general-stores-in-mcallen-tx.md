@@ -9,11 +9,10 @@ cover:
    title: The 10 Biggest Dollar General Stores in McAllen TX
    subtitle: Rickpate
    background: https://www.depkes.org/wp-content/uploads/2023/06/dollar-general-0-in-mcallen-tx-1685966517.jpeg
-
 pages: 
  - layout: thirds
    top: <h1>#1 Dollar General</h1>
-   bottom: "<p>I had a good experience at this store .I always find what I need😍😍😍Thank you for making this wonderful store.very satisfied with everthing they have there🥰�</p>"
+   bottom: "<p>I had a good experience at this store .I always find what I need Thank you for making this wonderful store.very satisfied with everthing they have there</p>"
    background: https://images.unsplash.com/photo-1549241520-425e3dfc01cb?ixlib=rb-4.0.3&ixid=MnwxMjA3fDB8MHxwaG90by1wYWdlfHx8fGVufDB8fHx8&auto=format&fit=crop&w=640&h=853&q=80
    backgroundblur: true
  - layout: thirds

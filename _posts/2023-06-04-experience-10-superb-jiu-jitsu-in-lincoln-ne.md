@@ -13,7 +13,7 @@ cover:
 pages: 
  - layout: thirds
    top: <h1>#1 Master Lees Taekwondo</h1>
-   bottom: "<p>Our 6 year old has loved getting started in Tae Kwon Do at Master Lees. Master Lee, Suzy, and the staff are great. They are always encouraging with a never give up‚</p>"
+   bottom: "<p>Our 6 year old has loved getting started in Tae Kwon Do at Master Lees. Master Lee, Suzy, and the staff are great. They are always encouraging with a never give up√¢</p>"
    background: https://www.depkes.org/wp-content/uploads/2023/06/jiu-jitsu-1-in-lincoln-ne-1685852945.jpeg
    backgroundblur: true
  - layout: thirds

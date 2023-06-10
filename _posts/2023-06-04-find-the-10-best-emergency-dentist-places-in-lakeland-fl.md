@@ -9,16 +9,15 @@ cover:
    title: Find the 10 Best Emergency Dentist Places in Lakeland FL
    subtitle: Rickpate
    background: https://www.depkes.org/wp-content/uploads/2023/06/emergency-dentist-0-in-lakeland-fl-1685846350.jpeg
-
 pages: 
  - layout: thirds
    top: <h1>#1 Lakeland Dentistry</h1>
-   bottom: "<p>I used to hate going to the Dentist until I came hereâ€¦Lakeland Dentistry has been our Dentist for many many years and will be for many more. As soon as you walk in youâ</p>"
+   bottom: "<p>I used to hate going to the Dentist until I came here Lakeland Dentistry has been our Dentist for many many years and will be for many more. As soon as you walk in you</p>"
    background: https://www.depkes.org/wp-content/uploads/2023/06/emergency-dentist-1-in-lakeland-fl-1685846350.jpeg
    backgroundblur: true
  - layout: thirds
    top: <h1>#2 Walding & Associates</h1>
-   bottom: "<p>I called on 12/1 in reference to an oral surgery consult. The receptionist was accommodating and immediately scheduled me for the next day with Dr. Goodwin.I traveled ove</p>"
+   bottom: "<p>I called on 12/1 in reference to an oral surgery consult. The receptionist was accommodating and immediately scheduled me for the next day with Dr. Goodwin.I traveled </p>"
    background: https://www.depkes.org/wp-content/uploads/2023/06/emergency-dentist-2-in-lakeland-fl-1685846351.jpeg
    cta:
       link: https://www.depkes.org/blog/find-the-10-best-emergency-dentist-places-in-lakeland-fl/

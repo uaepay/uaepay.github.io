@@ -9,11 +9,10 @@ cover:
    title: Take a Tour of the 7 Largest Baby Store Stores in Regina
    subtitle: AUTO.OR.ID
    background: https://www.auto.or.id/wp-content/uploads/2023/06/kids-clothing-cottage-0-regina-1686325160.jpeg
-
 pages: 
  - layout: thirds
    top: <h1>#1 Once Upon A Child Regina</h1>
-   bottom: "<p>They run a monthly free item with purchase for a piece of clothing up to 12m, I questioned why they limit the size of up to 12m when majority of babies will not follow â€</p>"
+   bottom: "<p>They run a monthly free item with purchase for a piece of clothing up to 12m, I questioned why they limit the size of up to 12m when majority of babies will not follow</p>"
    background: https://www.auto.or.id/wp-content/uploads/2023/06/kids-clothing-cottage-1-regina-1686325161.jpeg
    backgroundblur: true
  - layout: thirds
@@ -64,5 +63,4 @@ pages:
    cta:
       link: https://www.auto.or.id/take-a-tour-of-the-7-largest-baby-store-stores-in-regina/
       text: Take a Tour of the 7 Largest Baby Store Stores in Regina
-
 ---

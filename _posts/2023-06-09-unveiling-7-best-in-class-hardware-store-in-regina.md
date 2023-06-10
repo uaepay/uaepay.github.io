@@ -13,7 +13,7 @@ cover:
 pages: 
  - layout: thirds
    top: <h1>#1 Lowes Home Improvement</h1>
-   bottom: "<p>What a delight, came in from out of town. Such a great place to shop,with the best service around. Thank you so much, to Rodney for all of your help. Even though we didn‚</p>"
+   bottom: "<p>What a delight, came in from out of town. Such a great place to shop,with the best service around. Thank you so much, to Rodney for all of your help. Even though we didn√¢</p>"
    background: https://www.auto.or.id/wp-content/uploads/2023/06/peavey-mart-1-regina-1686325094.png
    backgroundblur: true
  - layout: thirds

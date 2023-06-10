@@ -9,7 +9,6 @@ cover:
    title: The 10 Largest Hamburger Shops Locations in Vermont
    subtitle: RICKPATE
    background: https://paketmu.com/wp-content/uploads/2023/06/queen-bees-snack-bar-0-in-vermont-1686373038.jpeg
-
 pages: 
  - layout: thirds
    top: <h1>#1 Als French Frys</h1>
@@ -18,14 +17,14 @@ pages:
    backgroundblur: true
  - layout: thirds
    top: <h1>#2 Worthy Burger</h1>
-   bottom: "<p>Worthy burger is worth it. Great burger choices, interesting combos, great fries, sauces, and drinks.I got the fries as a full meal once and I still couldnt finish a l</p>"
+   bottom: "<p>Worthy burger is worth it. Great burger choices, interesting combos, great fries, sauces, and drinks.I got the fries as a full meal once and I still couldnt finish</p>"
    background: https://paketmu.com/wp-content/uploads/2023/06/queen-bees-snack-bar-2-in-vermont-1686373041.jpeg
    cta:
       link: https://paketmu.com/the-10-largest-hamburger-shops-locations-in-vermont/
       text: The 10 Largest Hamburger Shops Locations in Vermont
  - layout: thirds
    top: <h1>#3 Grazers Restaurant</h1>
-   bottom: "<p>Some of the best food of this style you can get in Vermont! Its a good atmosphere, lots of options, and reasonably priced for being in Vermont. I really enjoyed, canâ€</p>"
+   bottom: "<p>Some of the best food of this style you can get in Vermont! Its a good atmosphere, lots of options, and reasonably priced for being in Vermont. I really enjoyed</p>"
    background: https://paketmu.com/wp-content/uploads/2023/06/queen-bees-snack-bar-3-in-vermont-1686373042.png
    cta:
       link: https://paketmu.com/the-10-largest-hamburger-shops-locations-in-vermont/

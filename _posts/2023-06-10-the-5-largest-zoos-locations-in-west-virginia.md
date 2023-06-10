@@ -25,7 +25,7 @@ pages:
       text: The 5 Largest Zoos Locations in West Virginia
  - layout: thirds
    top: <h1>#3 West Virginia State Wildlife Center</h1>
-   bottom: "<p>Very affordable pricing for tickets! The staff was very friendly and inviting. They had delicious food and a great gift shop! We went in Mid April and some animals weren‚</p>"
+   bottom: "<p>Very affordable pricing for tickets! The staff was very friendly and inviting. They had delicious food and a great gift shop! We went in Mid April and some animals weren√¢</p>"
    background: https://paketmu.com/wp-content/uploads/2023/06/west-virginia-state-wildlife-center-3-in-west-virginia-1686371408.jpeg
    cta:
       link: https://paketmu.com/the-5-largest-zoos-locations-in-west-virginia/

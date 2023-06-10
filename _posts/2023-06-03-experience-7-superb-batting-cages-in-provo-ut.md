@@ -18,7 +18,7 @@ pages:
    backgroundblur: true
  - layout: thirds
    top: <h1>#2 Level Up Batting Cages</h1>
-   bottom: "<p>Great experience! Machines are top of the line and very easy to work. I love the hours the cages are available. Very clean facility and lots of gear available if you don‚</p>"
+   bottom: "<p>Great experience! Machines are top of the line and very easy to work. I love the hours the cages are available. Very clean facility and lots of gear available if you don√¢</p>"
    background: https://www.depkes.org/wp-content/uploads/2023/06/batting-cages-2-in-provo-ut-1685806744.jpeg
    cta:
       link: https://www.depkes.org/blog/experience-7-superb-batting-cages-in-provo-ut/

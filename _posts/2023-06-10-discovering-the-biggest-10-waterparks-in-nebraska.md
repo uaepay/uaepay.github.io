@@ -25,7 +25,7 @@ pages:
       text: Discovering The Biggest 10 Waterparks in Nebraska
  - layout: thirds
    top: <h1>#3 Island Oasis Water Park</h1>
-   bottom: "<p>One of the best water parks I have ever been to. We drove 2 hours to come here and were super impressed! We visited on a Thursday and came from open to close and it wasn‚</p>"
+   bottom: "<p>One of the best water parks I have ever been to. We drove 2 hours to come here and were super impressed! We visited on a Thursday and came from open to close and it wasn√¢</p>"
    background: https://paketmu.com/wp-content/uploads/2023/06/kearney-water-trail-3-in-nebraska-1686371062.jpeg
    cta:
       link: https://paketmu.com/discovering-the-biggest-10-waterparks-in-nebraska/

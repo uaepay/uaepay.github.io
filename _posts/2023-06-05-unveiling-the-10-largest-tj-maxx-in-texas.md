@@ -13,7 +13,7 @@ cover:
 pages: 
  - layout: thirds
    top: <h1>#1 T.J. Maxx</h1>
-   bottom: "<p>I enjoy to go here a lot I get things what I need and good prices to buy good products. Workers and Managers are very friendly and respectful keep the Good Job Always!! ð</p>"
+   bottom: "<p>I enjoy to go here a lot I get things what I need and good prices to buy good products. Workers and Managers are very friendly and respectful keep the Good Job Always!! Ã°</p>"
    background: https://www.depkes.org/wp-content/uploads/2023/06/tj-maxx-1-in-texas-1685967655.jpeg
    backgroundblur: true
  - layout: thirds

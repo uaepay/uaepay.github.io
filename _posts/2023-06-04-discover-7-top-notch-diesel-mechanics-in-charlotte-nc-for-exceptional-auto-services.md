@@ -9,11 +9,10 @@ cover:
    title: Discover 7 Top-Notch Diesel Mechanics in Charlotte NC for Exceptional Auto Services
    subtitle: Rickpate
    background: https://images.unsplash.com/photo-1603224683825-22b15546560d?ixlib=rb-4.0.3&ixid=MnwxMjA3fDB8MHxwaG90by1wYWdlfHx8fGVufDB8fHx8&auto=format&fit=crop&w=640&h=853&q=80
-
 pages: 
  - layout: thirds
    top: <h1>#1 Superior Truck Service, Inc.</h1>
-   bottom: "<p>Friday June 17th 2022 I brought in a 2013 international 4300 that needed a camshaft replacementâ€¦.. the job cost me 10k and when I got my truck back I realized it wasnâ€</p>"
+   bottom: "<p>Friday June 17th 2022 I brought in a 2013 international 4300 that needed a camshaft replacement.. the job cost me 10k and when I got my truck back I realized it</p>"
    background: https://www.knot35.com/toplist/wp-content/uploads/2023/06/best-diesel-mechanic-1-in-charlotte-nc-1685837907.jpeg
    backgroundblur: true
  - layout: thirds

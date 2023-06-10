@@ -9,7 +9,6 @@ cover:
    title: The 6 Largest Costo Stores Locations in South Carolina
    subtitle: RICKPATE
    background: https://paketmu.com/wp-content/uploads/2023/06/costco-wholesale-0-in-south-carolina-1686368476.jpeg
-
 pages: 
  - layout: thirds
    top: <h1>#1 Costco Wholesale</h1>
@@ -18,7 +17,7 @@ pages:
    backgroundblur: true
  - layout: thirds
    top: <h1>#2 Costco Wholesale</h1>
-   bottom: "<p>Best place to shop for electronics, tires, or food period. Its almost an adventure to go here on the weekends and try their samples and see what deals they have. Canâ€</p>"
+   bottom: "<p>Best place to shop for electronics, tires, or food period. Its almost an adventure to go here on the weekends and try their samples and see what deals they have.</p>"
    background: https://paketmu.com/wp-content/uploads/2023/06/costco-wholesale-2-in-south-carolina-1686368477.jpeg
    cta:
       link: https://paketmu.com/the-6-largest-costo-stores-locations-in-south-carolina/
@@ -51,7 +50,6 @@ pages:
    cta:
       link: https://paketmu.com/the-6-largest-costo-stores-locations-in-south-carolina/
       text: The 6 Largest Costo Stores Locations in South Carolina
-
  - layout: thirds
    middle: Continue reading...
    background: https://images.unsplash.com/photo-1515405295579-ba7b45403062?ixlib=rb-4.0.3&ixid=MnwxMjA3fDB8MHxwaG90by1wYWdlfHx8fGVufDB8fHx8&auto=format&fit=crop&w=640&h=853&q=80

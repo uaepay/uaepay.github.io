@@ -9,11 +9,10 @@ cover:
    title: Discover 10 Top-rated Laser Hair Removal in Atlantic City NJ
    subtitle: Rickpate
    background: https://www.depkes.org/wp-content/uploads/2023/06/laser-hair-removal-0-in-atlantic-city-nj-1685876952.jpeg
-
 pages: 
  - layout: thirds
    top: <h1>#1 Mayras Beauty Salon & Dominican Salon</h1>
-   bottom: "<p>Traveling from MA, I was looking for a local hair salon and Im so glad I found Mayras Hair Salon! Its a quick Uber ride from the boardwalk and the service was ðŸ</p>"
+   bottom: "<p>Traveling from MA, I was looking for a local hair salon and Im so glad I found Mayras Hair Salon! Its a quick Uber ride from the boardwalk and the service was</p>"
    background: https://www.depkes.org/wp-content/uploads/2023/06/laser-hair-removal-1-in-atlantic-city-nj-1685876952.png
    backgroundblur: true
  - layout: thirds

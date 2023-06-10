@@ -13,7 +13,7 @@ cover:
 pages: 
  - layout: thirds
    top: <h1>#1 Mid-K Beauty Supply</h1>
-   bottom: "<p>I went in and wanted hair extensions for my prom. i asked the lady behind the counter for help. she was uninterested in helping me. I kept asking her questions bc i didn‚</p>"
+   bottom: "<p>I went in and wanted hair extensions for my prom. i asked the lady behind the counter for help. she was uninterested in helping me. I kept asking her questions bc i didn√¢</p>"
    background: https://paketmu.com/wp-content/uploads/2023/06/earths-beauty-supply-1-in-iowa-1686370098.jpeg
    backgroundblur: true
  - layout: thirds

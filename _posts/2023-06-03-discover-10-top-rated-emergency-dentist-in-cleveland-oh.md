@@ -9,11 +9,10 @@ cover:
    title: Discover 10 Top-rated Emergency Dentist in Cleveland OH
    subtitle: Rickpate
    background: https://www.depkes.org/wp-content/uploads/2023/06/emergency-dentist-0-in-cleveland-oh-1685776139.jpeg
-
 pages: 
  - layout: thirds
    top: <h1>#1 Hudec Dental</h1>
-   bottom: "<p>Do yourself a favor and stay away from this location. Many of the old staff members that were so pleasant, knowledgeable, helpful, and just good people are now gone. Itâ€</p>"
+   bottom: "<p>Do yourself a favor and stay away from this location. Many of the old staff members that were so pleasant, knowledgeable, helpful, and just good people are now gone.</p>"
    background: https://www.depkes.org/wp-content/uploads/2023/06/emergency-dentist-1-in-cleveland-oh-1685776140.jpeg
    backgroundblur: true
  - layout: thirds

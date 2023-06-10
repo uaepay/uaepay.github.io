@@ -9,11 +9,10 @@ cover:
    title: Discover 7 Premier Ford Mechanics in Oakland CA for Reliable Car Maintenance
    subtitle: Rickpate
    background: https://images.unsplash.com/photo-1654159866298-e3c8ee93e43b?ixlib=rb-4.0.3&ixid=MnwxMjA3fDB8MHxwaG90by1wYWdlfHx8fGVufDB8fHx8&auto=format&fit=crop&w=640&h=853&q=80
-
 pages: 
  - layout: thirds
    top: <h1>#1 Besa Quality Auto Care</h1>
-   bottom: "<p>Ive been using Besa auto service exclusively since I purchased my 2006 BMW X5 two years ago. He is trustworthy and very thorough, which matters greatly to me since Iâ€</p>"
+   bottom: "<p>Ive been using Besa auto service exclusively since I purchased my 2006 BMW X5 two years ago. He is trustworthy and very thorough, which matters greatly to me since I</p>"
    background: https://www.knot35.com/toplist/wp-content/uploads/2023/06/best-ford-mechanic-1-in-oakland-ca-1685839877.jpeg
    backgroundblur: true
  - layout: thirds

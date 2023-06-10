@@ -13,7 +13,7 @@ cover:
 pages: 
  - layout: thirds
    top: <h1>#1 NAPA Edmonton - Main Counter</h1>
-   bottom: "<p>NAPA does not back up their sales of parts when they tell you this is the part you need, sell it to you only to find the Napa pro mechanic goes to put it in and finds it‚</p>"
+   bottom: "<p>NAPA does not back up their sales of parts when they tell you this is the part you need, sell it to you only to find the Napa pro mechanic goes to put it in and finds it√¢</p>"
    background: https://www.auto.or.id/wp-content/uploads/2023/06/das-autoparts-1-edmonton-1686322787.jpeg
    backgroundblur: true
  - layout: thirds

@@ -13,7 +13,7 @@ cover:
 pages: 
  - layout: thirds
    top: <h1>#1 Furnasman Heating and Air Conditioning</h1>
-   bottom: "<p>Tim and Brad arrived on time, they were professional and personable. They had to troubleshoot the thermostat install but they got it figured out. By the end of the day Iâ</p>"
+   bottom: "<p>Tim and Brad arrived on time, they were professional and personable. They had to troubleshoot the thermostat install but they got it figured out. By the end of the day IÃ¢</p>"
    background: https://www.auto.or.id/wp-content/uploads/2023/06/furnasman-heating-and-air-conditioning-1-winnipeg-1686323214.jpeg
    backgroundblur: true
  - layout: thirds

@@ -9,7 +9,6 @@ cover:
    title: Take a Tour of the 9 Largest Costo Stores in Wisconsin
    subtitle: RICKPATE
    background: https://paketmu.com/wp-content/uploads/2023/06/costco-wholesale-0-in-wisconsin-1686367912.jpeg
-
 pages: 
  - layout: thirds
    top: <h1>#1 Costco Wholesale</h1>
@@ -18,7 +17,7 @@ pages:
    backgroundblur: true
  - layout: thirds
    top: <h1>#2 Costco Wholesale</h1>
-   bottom: "<p>I love my Costco!  Theyre always in stock of the basics I need…and (curses!) they always have something I want but was not expecting to buy😂😂😂My top 10-❤�</p>"
+   bottom: "<p>I love my Costco!  Theyre always in stock of the basics I need and (curses!) they always have something I want but was not expecting to buy My top 10 </p>"
    background: https://paketmu.com/wp-content/uploads/2023/06/costco-wholesale-2-in-wisconsin-1686367914.jpeg
    cta:
       link: https://paketmu.com/take-a-tour-of-the-9-largest-costo-stores-in-wisconsin/

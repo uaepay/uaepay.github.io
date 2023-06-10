@@ -9,11 +9,10 @@ cover:
    title: Unveiling 10 Top-notch Tattoo Removal in Madison WI
    subtitle: Rickpate
    background: https://www.depkes.org/wp-content/uploads/2023/06/tattoo-removal-0-in-madison-wi-1685818153.jpeg
-
 pages: 
  - layout: thirds
    top: <h1>#1 Bad Apple Tattoo Company</h1>
-   bottom: "<p>Awesome place. Really nice people, super accommodating. Angelo was fantastic! He was patient and friendly and I had a blast chatting with him while he did my tattoo. Heâ€</p>"
+   bottom: "<p>Awesome place. Really nice people, super accommodating. Angelo was fantastic! He was patient and friendly and I had a blast chatting with him while he did my tattoo. He</p>"
    background: https://www.depkes.org/wp-content/uploads/2023/06/tattoo-removal-1-in-madison-wi-1685818153.jpeg
    backgroundblur: true
  - layout: thirds

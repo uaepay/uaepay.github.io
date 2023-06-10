@@ -13,7 +13,7 @@ cover:
 pages: 
  - layout: thirds
    top: <h1>#1 Honor Roll Brazilian Jiu-Jitsu Valencia, Santa Clarita</h1>
-   bottom: "<p>When I first joined the Honor Roll BJJ I immediately felt like I was part of the family. With my busy schedule Bruno holds me accountable to my promise and commitment. Iâ</p>"
+   bottom: "<p>When I first joined the Honor Roll BJJ I immediately felt like I was part of the family. With my busy schedule Bruno holds me accountable to my promise and commitment. IÃ¢</p>"
    background: https://www.depkes.org/wp-content/uploads/2023/06/jiu-jitsu-1-in-santa-clarita-ca-1685858346.png
    backgroundblur: true
  - layout: thirds

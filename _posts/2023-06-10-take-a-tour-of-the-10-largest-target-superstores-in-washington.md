@@ -25,7 +25,7 @@ pages:
       text: Take a Tour of the 10 Largest Target Superstores in Washington
  - layout: thirds
    top: <h1>#3 Target</h1>
-   bottom: "<p>I went to pay for my Gold Bond lotion and it didnt scan. The checker asked me if it came out of a basket in the aisle and I said yes. He said, its a free sample‚</p>"
+   bottom: "<p>I went to pay for my Gold Bond lotion and it didnt scan. The checker asked me if it came out of a basket in the aisle and I said yes. He said, its a free sample√¢</p>"
    background: https://paketmu.com/wp-content/uploads/2023/06/target-3-in-washington-1686366706.jpeg
    cta:
       link: https://paketmu.com/take-a-tour-of-the-10-largest-target-superstores-in-washington/

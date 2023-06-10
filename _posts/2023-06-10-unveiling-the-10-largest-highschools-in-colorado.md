@@ -9,11 +9,10 @@ cover:
    title: Unveiling the 10 Largest Highschools in Colorado
    subtitle: RICKPATE
    background: https://paketmu.com/wp-content/uploads/2023/06/abraham-lincoln-high-school-0-in-colorado-1686367993.jpeg
-
 pages: 
  - layout: thirds
    top: <h1>#1 Denver South High School</h1>
-   bottom: "<p>I Love this School , for I Graduated from there. Some teachers can be very mean , Amd rude sometimes , but thats howLife is. Other than that. I did Graduate 😍☺️�</p>"
+   bottom: "<p>I Love this School , for I Graduated from there. Some teachers can be very mean , Amd rude sometimes , but thats howLife is. Other than that. I did Graduate</p>"
    background: https://paketmu.com/wp-content/uploads/2023/06/abraham-lincoln-high-school-1-in-colorado-1686367994.jpeg
    backgroundblur: true
  - layout: thirds

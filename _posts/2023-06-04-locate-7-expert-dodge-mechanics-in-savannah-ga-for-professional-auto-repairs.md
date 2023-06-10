@@ -9,11 +9,10 @@ cover:
    title: Locate 7 Expert Dodge Mechanics in Savannah GA for Professional Auto Repairs
    subtitle: Rickpate
    background: https://images.unsplash.com/photo-1625863929285-5e37a6b0df1c?ixlib=rb-4.0.3&ixid=MnwxMjA3fDB8MHxwaG90by1wYWdlfHx8fGVufDB8fHx8&auto=format&fit=crop&w=640&h=853&q=80
-
 pages: 
  - layout: thirds
    top: <h1>#1 Mitchells Automotive LLC</h1>
-   bottom: "<p>Cant say enough about this shop being one of the best Ive ever used. Professional, courteous, and knowledgeable service is all I have ever encountered at Mitchellâ€</p>"
+   bottom: "<p>Cant say enough about this shop being one of the best Ive ever used. Professional, courteous, and knowledgeable service is all I have ever encountered at Mitchell</p>"
    background: https://www.knot35.com/toplist/wp-content/uploads/2023/06/best-dodge-mechanic-1-in-savannah-ga-1685831416.jpeg
    backgroundblur: true
  - layout: thirds

@@ -13,7 +13,7 @@ cover:
 pages: 
  - layout: thirds
    top: <h1>#1 Ideal Image Peoria</h1>
-   bottom: "<p>I do not recommend this place to anyone. You work very hard for your money. They charged me about 4K for three parts . You need  to do your research on prices first. Don‚</p>"
+   bottom: "<p>I do not recommend this place to anyone. You work very hard for your money. They charged me about 4K for three parts . You need  to do your research on prices first. Don√¢</p>"
    background: https://www.depkes.org/wp-content/uploads/2023/06/laser-hair-removal-1-in-glendale-az-1685872170.png
    backgroundblur: true
  - layout: thirds

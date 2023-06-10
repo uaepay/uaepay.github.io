@@ -9,7 +9,6 @@ cover:
    title: Take a Tour of the 10 Largest Gas Stations in Kentucky
    subtitle: RICKPATE
    background: https://paketmu.com/wp-content/uploads/2023/06/loves-travel-stop-0-in-kentucky-1686369048.jpeg
-
 pages: 
  - layout: thirds
    top: <h1>#1 Pilot diesel</h1>
@@ -25,7 +24,7 @@ pages:
       text: Take a Tour of the 10 Largest Gas Stations in Kentucky
  - layout: thirds
    top: <h1>#3 USA Fuel</h1>
-   bottom: "<p>Love this place !!!!   Guys are super nice and friendly.   Its clean !!!   The food is delicious 😋Catfish. Chicken tenders. Red beans and rice.ALL fantastic. 👍�</p>"
+   bottom: "<p>Love this place !!!!   Guys are super nice and friendly.   Its clean !!!   The food is delicious Catfish. Chicken tenders. Red beans and rice.ALL fantastic.</p>"
    background: https://paketmu.com/wp-content/uploads/2023/06/loves-travel-stop-3-in-kentucky-1686369051.jpeg
    cta:
       link: https://paketmu.com/take-a-tour-of-the-10-largest-gas-stations-in-kentucky/

@@ -9,11 +9,10 @@ cover:
    title: Unveiling 7 Professional GMC Mechanics in Mobile AL for Efficient Auto Solutions
    subtitle: Rickpate
    background: https://images.unsplash.com/photo-1568616389647-1ca300610d99?ixlib=rb-4.0.3&ixid=MnwxMjA3fDB8MHxwaG90by1wYWdlfHx8fGVufDB8fHx8&auto=format&fit=crop&w=640&h=853&q=80
-
 pages: 
  - layout: thirds
    top: <h1>#1 Majestic Tires & Service</h1>
-   bottom: "<p>When I tell you majestic tires is where its at, dont take it lightly! Today was a night mare, not one but 2 bad tires out the blue🤦🏽‍♀️ Only my luck�</p>"
+   bottom: "<p>When I tell you majestic tires is where its at, dont take it lightly! Today was a night mare, not one but 2 bad tires out the blue Only my luck</p>"
    background: https://www.knot35.com/toplist/wp-content/uploads/2023/06/best-gmc-mechanic-1-in-mobile-al-1685831883.png
    backgroundblur: true
  - layout: thirds

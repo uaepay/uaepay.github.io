@@ -9,7 +9,6 @@ cover:
    title: The 10 Biggest Thrift Stores in Pennsylvania
    subtitle: RICKPATE
    background: https://paketmu.com/wp-content/uploads/2023/06/worthwhile-thrift-0-in-pennsylvania-1686365302.jpeg
-
 pages: 
  - layout: thirds
    top: <h1>#1 Philly AIDS Thrift</h1>
@@ -25,7 +24,7 @@ pages:
       text: The 10 Biggest Thrift Stores in Pennsylvania
  - layout: thirds
    top: <h1>#3 2nd Ave Thrift Superstore - North Wales, PA</h1>
-   bottom: "<p>This place used to be good, but now sucks. They just put junk on the shelves. If they even bother to restock. They think they can research stuff and price high but theyâ€</p>"
+   bottom: "<p>This place used to be good, but now sucks. They just put junk on the shelves. If they even bother to restock. They think they can research stuff and price high but they</p>"
    background: https://paketmu.com/wp-content/uploads/2023/06/worthwhile-thrift-3-in-pennsylvania-1686365304.jpeg
    cta:
       link: https://paketmu.com/the-10-biggest-thrift-stores-in-pennsylvania/

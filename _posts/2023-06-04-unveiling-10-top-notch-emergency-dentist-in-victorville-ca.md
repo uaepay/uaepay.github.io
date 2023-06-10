@@ -9,11 +9,10 @@ cover:
    title: Unveiling 10 Top-notch Emergency Dentist in Victorville CA
    subtitle: Rickpate
    background: https://www.depkes.org/wp-content/uploads/2023/06/emergency-dentist-0-in-victorville-ca-1685828990.jpeg
-
 pages: 
  - layout: thirds
    top: <h1>#1 Western Dental & Orthodontics</h1>
-   bottom: "<p>My husband and I have only be here for consultations and one cleaning so far, but I absolutely love it here already.Charlene the hygienist is one of the nicest people Iâ€</p>"
+   bottom: "<p>My husband and I have only be here for consultations and one cleaning so far, but I absolutely love it here already.Charlene the hygienist is one of the nicest people</p>"
    background: https://www.depkes.org/wp-content/uploads/2023/06/emergency-dentist-1-in-victorville-ca-1685828991.jpeg
    backgroundblur: true
  - layout: thirds
