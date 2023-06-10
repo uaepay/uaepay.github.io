@@ -725,7 +725,7 @@ img {
 
 .bottompagination span.navigation {
     display: block;
-    font-size: 0.93rem;
+    font-size: 0.20rem;
     padding: 15px 0 0 0;
     text-align: center;
     margin-bottom: 0rem;
@@ -749,8 +749,7 @@ img {
 
 span.navigation {
     display: inline-block;
-    font-size: 0.93rem;
-    font-weight: 700;
+    font-size: 0.20rem;
     text-align: center;
 }
 
