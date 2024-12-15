@@ -16,7 +16,7 @@ authors:
     email: sultanhamidd6@gmail.com
     twitter: ''
     description: "Text to speech technology enthusiast, developer and owner of Sound of Text WA Official"
-    web: "https://www.soundoftext.com
+    web: "https://www.soundoftext.com"
     gravatar: 7ae47ed8e06cdf6ec282793d482f3afb
 plugins:
   - jekyll-paginate
