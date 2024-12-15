@@ -1,9 +1,9 @@
-name: Rickpate Stories
-title: Rickpate Stories
-description: Latest business trends and reviews
+name: Sound of Text WA Official
+title: Sound of Text WA Official
+description: Latest sound of text WA tutorials
 logo: assets/images/idnlogos.png
 favicon: assets/images/techico.png
-url: 'https://www.rickpate.com'
+url: 'https://soundoftextwa.github.io '
 baseurl: ''
 google_analytics: 'UA-209667013-4'
 include:
@@ -11,13 +11,13 @@ include:
 permalink: '/:title/'
 authors:
   techidn:
-    name: Rickpate
-    display_name: Rickpate
-    email: krvsuite@gmail.com
+    name: Soundoftextwa
+    display_name: Soundoftextwa
+    email: sultanhamidd6@gmail.com
     twitter: ''
-    description: "Business enthusiast with a passion for innovation and problem-solving."
-    web: "https://www.rickpate.com"
-    gravatar: 0397aa39d5259d69961beaf1155fa085
+    description: "Text to speech technology enthusiast, developer and owner of Sound of Text WA Official"
+    web: "https://www.soundoftext.com
+    gravatar: 7ae47ed8e06cdf6ec282793d482f3afb
 plugins:
   - jekyll-paginate
   - jekyll-sitemap
@@ -39,9 +39,9 @@ kramdown:
   syntax_highlighter_opts:
     block:
       line_numbers: true
-adsense: 'enabled'
-adsense-data-ad-client: 'ca-pub-3141717106817809'
-adsense-data-ad-slot: '9322355398'
+adsense: 'disabled'
+adsense-data-ad-client: ''
+adsense-data-ad-slot: ''
 lazyimages: 'enabled'
 exclude:
   - changelog.md
