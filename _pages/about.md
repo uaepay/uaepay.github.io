@@ -5,14 +5,14 @@ permalink: "/about"
 comments: true
 ---
 
-Halo teman-teman selamat datang di blog Tech IDN. Alangkah lebih baiknya untuk kalian lebih mengenal dulu mengenai blog ini.
+Selamat datang di SoundoftextWA!
+-------------
+SoundoftextWA adalah proyek pribadi yang bertujuan untuk memberikan solusi bagi pengguna yang ingin mengubah teks menjadi file audio dalam format MP3. Semua fitur dan pengembangan di balik SoundoftextWA dilakukan sebagai bagian dari proses belajar dan eksperimen dalam bidang pemrograman dan pengembangan web.
 
-Blog Tech IDN adalah blog pribadi yang dikembangkan oleh mas Satria. Blog ini dibuat bertujuan untuk melatih skill content writer saya serta kualitas optimasi seo saya.
+Mengapa SoundoftextWA?
 
-Semua konten yang ada di website saya murni tulisan saya sendiri, dan apabila terdapat kontent di website saya yang menyinggung atau terindikasi adanya plagiarism itu murni karena kesamaan bukan peniruan.
+- Belajar dan Berbagi: Proyek ini lahir dari keinginan untuk mendalami teknologi text-to-speech dan berbagi pengetahuan dengan komunitas pengembang lainnya.
+- Solusi Praktis: Kami menyediakan alat yang mudah digunakan untuk mengubah teks menjadi audio, yang dapat berguna untuk berbagai keperluan seperti membuat konten audio untuk media sosial, presentasi, atau pembelajaran.
+Disclaimer
 
-Jadi mungkin cukup sekian perkenalan dari owner website Tech IDN, apabila anda berkenan menghubungi saya bisa melalui halaman kontak.
-
-Salam hormat
-
-TechIDN.github.io
+Semua kode dan konten di SoundoftextWA dibuat secara mandiri. Jika Anda menemukan kesamaan dengan proyek lain, itu murni kebetulan dan bukan hasil dari penjiplakan. Kami selalu berusaha untuk memberikan kontribusi yang orisinal dan bermanfaat bagi komunitas.
