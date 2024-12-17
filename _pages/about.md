@@ -5,8 +5,8 @@ permalink: "/about"
 comments: true
 ---
 
-Selamat datang di SoundoftextWA!
--------------
+Selamat datang di Soundoftext WA!
+
 SoundoftextWA adalah proyek pribadi yang bertujuan untuk memberikan solusi bagi pengguna yang ingin mengubah teks menjadi file audio dalam format MP3. Semua fitur dan pengembangan di balik SoundoftextWA dilakukan sebagai bagian dari proses belajar dan eksperimen dalam bidang pemrograman dan pengembangan web.
 
 Mengapa SoundoftextWA?
