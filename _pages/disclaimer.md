@@ -5,22 +5,16 @@ permalink: "/disclaimer"
 comments: true
 ---
 
-Jika Anda memerlukan informasi lebih lanjut atau memiliki pertanyaan tentang disclaimer situs kami, jangan ragu untuk menghubungi kami melalui halaman kontak.
+Effective Date: January 13, 2025
 
-Semua informasi di website ini diterbitkan dengan itikad baik dan untuk tujuan membagikan tutorial aplikasi terkini (edukasi). Tech IDN tidak membuat jaminan tentang kelengkapan, keandalan dan ketepatan informasi ini. Kami tidak bertanggung jawab atas kesalahan menerjemahkan informasi dari situs ini.
+The information provided on TheDubaiLife is for general informational purposes only. While we strive to keep the content accurate and up-to-date, we make no representations or warranties of any kind, express or implied, about the completeness, accuracy, reliability, or availability of the information provided on the site.
 
-Jika anda menemukan kendala atau keraguan, kami berharap anda menghubungi kami melalui laman kontak. Dari website ini, Anda dapat mengunjungi situs-situs lain dengan mengikuti hyperlink ke situs eksternal tersebut.
+Any reliance you place on such information is strictly at your own risk. In no event will we be liable for any loss or damage, including without limitation, indirect or consequential loss or damage, or any loss or damage arising from the use of the site or the information provided.
 
-Link eksternal tersebut tidak serta merta merupakan afiliasi kami, link tersebut dapat berubah tanpa pemberitahuan kepada kami. Dengan deikian Tech IDN tidak bertanggung jawab jika terdapat informasi dari link tujuan yang tidak sesuai.
+TheDubaiLife may contain links to external websites or third-party content. We do not control and are not responsible for the content, privacy policies, or practices of these external sites.
 
-Sementara itu, kami berusaha memperkaya informasi yang anda butuhkan melalu beberapa link external yang berkualitas dan berhubungan dengan apa yang sedang anda baca pada suatu halaman yang sedang anda baca.
+By using this website, you agree to the terms outlined in this Disclaimer.
 
-Perlu kami beritahuan juga bahwa, ketika anda mengunjungi dan meninggakan website Tech IDN, mungkin ada beberapa informas yang anda tinggalkan. Lebih lengkap mengenai hal tersebut dapat andad baca pada halaman Privacy Policy
+## Contact Us
 
-Persetujuan
-Dengan menggunakan website kami, Anda dengan ini menyetujui disclaimer kami dan setuju dengan ketentuan-ketentuannya.
-
-Tim Redaksi Tech IDN
-
-Pembaharuan
-Laman disclaimer ini terakhir diperbaharui pada: Kamis, 17 Maret 2022
+If you have any questions about this Disclaimer, please contact us.
