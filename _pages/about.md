@@ -5,14 +5,10 @@ permalink: "/about"
 comments: true
 ---
 
-Selamat datang di Soundoftext WA!
+About The Dubai Life
 
-SoundoftextWA adalah proyek pribadi yang bertujuan untuk memberikan solusi bagi pengguna yang ingin mengubah teks menjadi file audio dalam format MP3. Semua fitur dan pengembangan di balik SoundoftextWA dilakukan sebagai bagian dari proses belajar dan eksperimen dalam bidang pemrograman dan pengembangan web.
+Welcome to TheDubaiLife! I’m Dary, a healthcare professional navigating life in one of the world’s most dynamic cities, Dubai. Having relocated from Southeast Asia to work in the health department, I’ve been on a journey of both professional growth and personal exploration.
 
-Mengapa SoundoftextWA?
+This blog is where I share my experiences of living in Dubai, from the challenges of adapting to a new culture to the fascinating aspects of the city’s healthcare system. Whether you're curious about what it’s like to work in healthcare here, tips for expatriates, or insights into Dubai’s lifestyle and attractions, you’ll find it all in my posts.
 
-- Belajar dan Berbagi: Proyek ini lahir dari keinginan untuk mendalami teknologi text-to-speech dan berbagi pengetahuan dengan komunitas pengembang lainnya.
-- Solusi Praktis: Kami menyediakan alat yang mudah digunakan untuk mengubah teks menjadi audio, yang dapat berguna untuk berbagai keperluan seperti membuat konten audio untuk media sosial, presentasi, atau pembelajaran.
-Disclaimer
-
-Semua kode dan konten di SoundoftextWA dibuat secara mandiri. Jika Anda menemukan kesamaan dengan proyek lain, itu murni kebetulan dan bukan hasil dari penjiplakan. Kami selalu berusaha untuk memberikan kontribusi yang orisinal dan bermanfaat bagi komunitas.
+Through TheDubaiLife, I hope to connect with other expats, healthcare professionals, and anyone interested in learning more about life in Dubai. Join me as I share my story, from work-life balance tips to exploring the diverse and exciting aspects of this city.
