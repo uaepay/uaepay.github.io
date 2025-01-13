@@ -1,23 +1,23 @@
-name: Sound of Text WA Official
-title: Sound of Text WA Official
-description: Latest sound of text WA tutorials
+name: The Dubai Life Official
+title: The Dubai Life Official
+description: Latest news and updates about living in Dubai
 logo: assets/images/idnlogos.png
 favicon: assets/images/techico.png
-url: 'https://soundoftextwa.github.io'
+url: 'https://thedubailife.github.io'
 baseurl: ''
-google_analytics: 'UA-209667013-4'
+google_analytics: ''
 include:
   - _pages
 permalink: '/:title/'
 authors:
   techidn:
-    name: Soundoftextwa
-    display_name: Soundoftextwa
-    email: sultanhamidd6@gmail.com
+    name: DubaiLife
+    display_name: DubaiLife
+    email: thedubailife@gmail.com
     twitter: ''
-    description: "Text to speech technology enthusiast, developer and owner of Sound of Text WA Official"
-    web: "https://www.soundoftext.com"
-    gravatar: 7ae47ed8e06cdf6ec282793d482f3afb
+    description: "So, you think you know Dubai? Think again"
+    web: "https://thedubailife.github.io"
+    gravatar: 2c7d99fe281ecd3bcd65ab915bac6dd5
 plugins:
   - jekyll-paginate
   - jekyll-sitemap
