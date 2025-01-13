@@ -1,5 +1,5 @@
 ---
-title: Kebijakan Privasi
+title: Privacy Policy
 layout: page
 permalink: "/privacy"
 comments: true
