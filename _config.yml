@@ -1,6 +1,6 @@
-name: The Dubai Life Official
-title: The Dubai Life Official
-description: Latest news and updates about living in Dubai
+name: UAE Financial Insights
+title: UAE Financial Insights
+description: UAE Financial Insights delivers expert analysis and in-depth perspectives on the UAE financial landscape. Stay informed with reliable insights from official sources.
 logo: assets/images/idnlogos.png
 favicon: assets/images/techico.png
 url: 'https://thedubailife.github.io'
@@ -11,12 +11,12 @@ include:
 permalink: '/:title/'
 authors:
   techidn:
-    name: DubaiLife
-    display_name: DubaiLife
+    name: UAE Finance
+    display_name: UAE Finance
     email: thedubailife@gmail.com
     twitter: ''
-    description: "So, you think you know Dubai? Think again"
-    web: "https://thedubailife.github.io"
+    description: "So, you need any financial insights for Dubai expats?"
+    web: "https://uaefinance.github.io"
     gravatar: 2c7d99fe281ecd3bcd65ab915bac6dd5
 plugins:
   - jekyll-paginate
