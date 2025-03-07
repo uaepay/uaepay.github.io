@@ -71,5 +71,37 @@ A credit score under 580 makes it difficult to obtain personal loans. Several st
 5. **Increase Your Credit Age**: Extending your credit age requires keeping past accounts active to demonstrate longer borrowing experience.
 6. **Monitor Your Credit Report**: Regular monitoring of your credit report through the AECB allows you to detect errors so you can dispute them properly.
 
+## Frequently Asked Questions (FAQs)
+
+**What Is the Minimum Credit Score Required for a Personal Loan in the UAE?**  
+A minimum credit score of **580** is required to qualify for a personal loan in the UAE. However, individuals with a higher credit score, preferably above **650**, have better chances of securing loans with lower interest rates and more favorable terms.
+
+**How Can I Check My Credit Score in the UAE?**  
+You can check your credit score through the **Al Etihad Credit Bureau (AECB)** by following these steps:
+
+1. Visit the **AECB website** or download the **AECB mobile app**.
+2. Log in using your **Emirates ID**.
+3. Select the **“Get Credit Report”** option.
+4. Pay the applicable fee (currently **AED 84**).
+5. Download and review your credit report.
+
+**What Factors Affect My Credit Score in the UAE?**  
+Your credit score is determined based on several factors, including:
+
+- **Payment History**: Timely repayment of loans and credit card bills boosts your score.
+- **Outstanding Debt**: High levels of unpaid debt negatively impact your score.
+- **Credit Utilization Ratio**: Using too much of your credit limit can lower your score.
+- **Returned Cheques**: Bounced or missed payments significantly harm your credit rating.
+- **Credit Age**: A longer credit history demonstrates responsible borrowing behavior.
+
+**How Can I Improve My Credit Score for a Personal Loan?**  
+To enhance your credit score and increase your chances of loan approval, follow these steps:
+
+- **Make timely payments** on all credit obligations, including loans and bills.
+- **Keep credit utilization below 30%** to maintain a good score.
+- **Avoid multiple loan applications**, as frequent credit inquiries can lower your score.
+- **Clear outstanding debts** and avoid issuing bad cheques.
+- **Monitor your credit report** regularly through the AECB to identify and rectify any errors.
+
 ## Conclusion
 To secure a personal loan in the UAE having a credit score of 580 or higher is necessary while high scores will enhance both your approval odds and the conditions of the loan. Proper financial obligation management will enhance your credit score which allows you to obtain loans with desirable conditions. Before applying for personal loans you must check your credit score to improve it if necessary.
