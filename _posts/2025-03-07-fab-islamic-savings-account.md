@@ -61,6 +61,31 @@ The application process requires you to review and accept the Customer Informati
 ### Step 8: Confirmation and Account Activation
 After details submission you will get a confirmation message from the system. Your FAB Islamic Savings Account will receive activation shortly after which it will become usable immediately.
 
+## Frequently Asked Questions (FAQs)
+
+**What are the requirements to open a FAB Islamic Savings Account?**  
+To open a FAB Islamic Savings Account, you need to meet the following requirements:
+
+- A valid Emirates ID  
+- A registered mobile number and email address  
+- Basic personal details including full name, date of birth, and employment details  
+- A compatible smartphone to install and use the FAB Mobile App  
+
+**Can I open a FAB Islamic Savings Account without visiting a bank branch?**  
+Yes, the entire process is fully digital and can be completed through the FAB Mobile App. You do not need to visit a bank branch at any stage of the account opening process.
+
+**How long does it take to activate my FAB Islamic Savings Account?**  
+Once you have successfully completed the registration process, including identity verification and document submission, your FAB Islamic Savings Account will be activated almost instantly. You will receive a confirmation message upon activation.
+
+**What benefits do I get with a FAB Islamic Savings Account?**  
+Opening a FAB Islamic Savings Account comes with multiple benefits, including:
+
+- Shariah-compliant banking  
+- A free Islamic debit card  
+- Instant access to banking services through the FAB Mobile App  
+- Airport lounge access across the region  
+- No requirement for branch visits, making the process convenient and efficient
+
 ## Conclusion
 Through the FAB Mobile App users can now open a FAB Islamic Savings Account in a convenient and easy manner. All banking and debit card services alongside airport lounge privileges under Shariah law become available through FAB Mobile App without requiring any physical visits to bank locations. Simply follow the provided instructions to begin banking using convenient methods.
 
